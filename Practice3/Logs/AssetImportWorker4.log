@@ -1109,3 +1109,35 @@ Memory consumption went from 149.5 MB to 146.2 MB.
 Total: 4.742334 ms (FindLiveObjects: 0.303500 ms CreateObjectMapping: 0.131334 ms MarkObjects: 3.326750 ms  DeleteObjects: 0.980208 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 1439.102596 seconds.
+  path: Assets/Belevich/Hyper casual mobile GUI/Sprites/SwordMaster.png
+  artifactKey: Guid(7ab140b2c60a247afb780a9bc26f47d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Belevich/Hyper casual mobile GUI/Sprites/SwordMaster.png using Guid(7ab140b2c60a247afb780a9bc26f47d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b586ae62c73aef4cf780752a13a67a85') in 0.039301208 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.978119 seconds.
+  path: Assets/Belevich/Hyper casual mobile GUI/Sprites/HammerWarrior.png
+  artifactKey: Guid(8af188cf09630426fb0bed79e40193ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Belevich/Hyper casual mobile GUI/Sprites/HammerWarrior.png using Guid(8af188cf09630426fb0bed79e40193ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3d4e0aeb5414d6ab312e36123c2e5477') in 0.011406292 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.728503 seconds.
+  path: Assets/Belevich/Hyper casual mobile GUI/Sprites/MenuBackground.jpg
+  artifactKey: Guid(495bda042e84e45f4a0b36437963fef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Belevich/Hyper casual mobile GUI/Sprites/MenuBackground.jpg using Guid(495bda042e84e45f4a0b36437963fef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'acaf37d2281d8a7b9fb65626bd337f5f') in 0.010895625 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.065630 seconds.
+  path: Assets/Belevich/Hyper casual mobile GUI/Sprites/Magician.png
+  artifactKey: Guid(f6bc7f3bace774ad5aeb6d1d087e148e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Belevich/Hyper casual mobile GUI/Sprites/Magician.png using Guid(f6bc7f3bace774ad5aeb6d1d087e148e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '15a02c9f454c02544385e41a4c877db6') in 0.011120833 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
